@@ -1,0 +1,21 @@
+{
+  "name": "muehehe-theme-vscode",
+  "displayName": "Muehehe Theme",
+  "description": "VS Code Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Muehehe Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Muehehe Theme-color-theme.json"
+      }
+    ]
+  }
+}
