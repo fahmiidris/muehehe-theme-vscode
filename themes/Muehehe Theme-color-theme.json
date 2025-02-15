@@ -35,6 +35,7 @@
     "diffEditor.removedTextBackground": "#bb1b3f99",
     "editorGroupHeader.tabsBackground": "#1D2126",
     "editorGroupHeader.tabsBorder": "#3D4041",
+    "editorGroupHeader.border": "#3D4041",
     "editorGroup.border": "#3D4041",
     "tab.activeBackground": "#2B2E31",
     "tab.inactiveBackground": "#1D2126",
